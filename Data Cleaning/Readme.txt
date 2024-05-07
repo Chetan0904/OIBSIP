@@ -1,4 +1,4 @@
-# Data Cleaning
+# Project title:  Data Cleaning
 
 In this project, I conducted comprehensive data cleaning and preprocessing tasks on a dataset containing Airbnb details. The dataset included information such as name, hostname, availability, reviews, prices, and location data. The goal was to prepare the dataset for further analysis and modeling by addressing issues related to data quality, consistency, and completeness.
 
