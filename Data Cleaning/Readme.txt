@@ -2,7 +2,7 @@
 
 In this project, I conducted comprehensive data cleaning and preprocessing tasks on a dataset containing Airbnb details. The dataset included information such as name, hostname, availability, reviews, prices, and location data. The goal was to prepare the dataset for further analysis and modeling by addressing issues related to data quality, consistency, and completeness.
 
-# #Steps involved:
+# Steps involved:
 1. Importing important Libraries.
 2. Loading Dataset.
 3. Data exploration and Missing Data Handling: Dealing with missing values by either imputing them or making informed decisions on how to handle gaps in the dataset..
