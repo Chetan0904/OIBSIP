@@ -13,6 +13,4 @@
 * Use dimensionality reduction techniques (e.g., PCA) if dealing with high-dimensional data.
 4.Segmentation Validation:
 *  Evaluate and validate customer segments using statistical metrics (e.g., silhouette score for clustering) to ensure meaningful and actionable segmentation.
-5.Segment Profiling:
-* Develop detailed profiles for each customer segment, highlighting defining traits, preferences, and behaviors.
-
+5. Marketing Strategies
