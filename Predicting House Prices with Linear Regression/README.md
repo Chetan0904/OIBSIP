@@ -1,5 +1,6 @@
 
-Project Title: House Price Prediction Using Linear Regression
+#Project Title: 
+* House Price Prediction Using Linear Regression
 
 # Project Overview:
 * The house price prediction project aims to develop a linear regression model to predict the selling prices of residential properties based on relevant features.
