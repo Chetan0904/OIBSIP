@@ -1,8 +1,8 @@
 # Project title: 
-Customer Segmentation
+* Customer Segmentation
 
 # Project Overview:
- The customer segmentation project aims to categorize customers into distinct groups based on their behavior, preferences, and characteristics. This segmentation will enable personalized marketing strategies, product recommendations, and targeted campaigns to enhance customer engagement and satisfaction.The customer segmentation project aims to categorize customers into distinct groups based on their behavior, preferences, and characteristics. 
+* The customer segmentation project aims to categorize customers into distinct groups based on their behavior, preferences, and characteristics. This segmentation will enable personalized marketing strategies, product recommendations, and targeted campaigns to enhance customer engagement and satisfaction.The customer segmentation project aims to categorize customers into distinct groups based on their behavior, preferences, and characteristics. 
 
 
 # Methodology:
