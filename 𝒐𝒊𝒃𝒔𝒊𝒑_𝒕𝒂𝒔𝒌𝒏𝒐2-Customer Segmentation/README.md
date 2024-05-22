@@ -26,6 +26,6 @@
 
 4. Segmentation Validation:
 
-# Evaluate and validate customer segments using statistical metrics (e.g., silhouette score for clustering) to ensure meaningful and actionable segmentation.
+* Evaluate and validate customer segments using statistical metrics (e.g., silhouette score for clustering) to ensure meaningful and actionable segmentation.
 
 5. Marketing Strategies:
