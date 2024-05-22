@@ -16,7 +16,7 @@
 
 2. Exploratory Data Analysis (EDA):
 
-# Conduct exploratory analysis to gain insights into customer behavior patterns, such as purchase frequency, average order value, preferred product categories, and geographic distribution.
+* Conduct exploratory analysis to gain insights into customer behavior patterns, such as purchase frequency, average order value, preferred product categories, and geographic distribution.
 
 3. Customer Segmentation Techniques:
 
